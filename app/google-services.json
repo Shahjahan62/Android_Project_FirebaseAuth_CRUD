@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079333921625",
+    "project_id": "besmart-1d106",
+    "storage_bucket": "besmart-1d106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079333921625:android:46a0a384f774d540afa248",
+        "android_client_info": {
+          "package_name": "com.example.besmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079333921625-0mrkgl2lpgg3bpimut6bv8tjt6pv71ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD47QtPLBMeiPUFv1NTWC0NgAJwGDSdiL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079333921625-0mrkgl2lpgg3bpimut6bv8tjt6pv71ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
